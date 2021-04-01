@@ -6,18 +6,19 @@ Práctica de Laboratorio 9
 
 _Objetivo General_
 
-• 
-
+• Estudiar el comportamiento de los amplificadores operacionales, y observar el resultado en tres configuraciones de elementos diferente. Hacer uso de la ganancia en lazo cerrado y ver como la variacion de los componentes y la frecuencia con la realimentación,  depende de los elementos empleados en el circuito.
 
 _Objetivos Específicos_
 
-•  
+• Verificar el principio de funcionamiento de un amplificador operacional.
 
-• 
+• Explicar el funcionamiento teórico de un amplificador
 
-• 
-
-• 
+• Detallar las formulas de ganancia de señal de un amplificador alimentado.
+  
+• Enumerar los usos más frecuentes de los amplificadores operacionales.
+ 
+• Construir tres circuitos utilizando un amplificador operacional, y demostrar su funcionamiento mediante el osciloscopio.
 
 2.MARCO TEÓRICO
 
