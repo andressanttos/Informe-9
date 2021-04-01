@@ -20,7 +20,9 @@ _Objetivos Específicos_
  
 • Construir tres circuitos utilizando un amplificador operacional, y demostrar su funcionamiento mediante el osciloscopio.
 
-2.MARCO TEÓRICO
+2.MARCO TEÓRICO:
+
+Un amplificador operacional consta de una entrada diferencial proporcionanso una ganancia extremadamente alta, cuyas características de operación estan determinadas por los elementos de realimentación utilizados. El proceso, la técnica, y el método con que se incluya un amplificador operacional en un circuito, es siempre crucial para determinar la forma en que funcionará.
 
 ![](img/marco1.jpg)
 
