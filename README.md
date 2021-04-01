@@ -98,10 +98,16 @@ Amplificador Operacional Seguidor de Voltaje
 
 _3.- Investigue otras aplicaciones con circuitos más complejos que utilizan amplificadores operacionales._
 
+Amplificador de instrumentación
+
+El amplificador de instrumentación es un amplificador diferencial tensión-tensión cuya ganancia puede establecerse de forma muy precisa y que ha sido optimizado para que opere de acuerdo a su propia especificación aún en un entorno hostil. Es un elemento esencial de los sistemas de medida, en los que se ensambla como un bloque funcional que ofrece características funcionales propias e independientes de los restantes elementos con los que interacciona .
+
+![](https://github.com/andressanttos/Informe-9/blob/main/img/ao%20instr.png)
+
 
 6.CONCLUSIONES:
 
-•	
+•	Un amplificador operacional actúa de diferente manera, dependiendo de los elementos a las cuales estén conectados, es decir, si existen elementos resistivos, la amplitud de la onda de salida aumenta, pero si está conectado un capacitor, entonces su amplitud cada vez será menor.
 
 • 
 
@@ -113,6 +119,6 @@ _3.- Investigue otras aplicaciones con circuitos más complejos que utilizan amp
 
 • Floyd Thomas L, “Principios de Circuitos Eléctricos”, 8 ed. 2007 .Pearson Educación de México, S.A. de C.V. México, pp. 281-333.
 
-• 
+• Agudelo Giraldo, J. D. (2013). Guías de prácca de laboratorio de electrónica y circuitos. 
 
-•
+•adiku. (s.f.). Ampli9cador Operacional. En Sadiku, Fundamentos de Circuitos Eléctricos.
