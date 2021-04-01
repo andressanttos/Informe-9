@@ -46,9 +46,12 @@ _Diagrama 3:_
 
 5.EXPLICACIÓN 
 
-•	Análisis de resultados
+![](https://github.com/andressanttos/Informe-9/blob/main/img/explicacion1.png)
 
-_1.- Analice y compare las formas de onda obtenidas en la práctica con los resultados obtenidos en el trabajo preparatorio. Comente dicha comparación._
+![](https://github.com/andressanttos/Informe-9/blob/main/img/explicacion2.png)
+
+![](https://github.com/andressanttos/Informe-9/blob/main/img/explicacion3.png)
+
 
 •	Preguntas
 
