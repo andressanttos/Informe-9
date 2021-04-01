@@ -112,11 +112,14 @@ El amplificador de instrumentación es un amplificador diferencial tensión-tens
 
 •	Un amplificador operacional actúa de diferente manera, dependiendo de los elementos a las cuales estén conectados, es decir, si existen elementos resistivos, la amplitud de la onda de salida aumenta, pero si está conectado un capacitor, entonces su amplitud cada vez será menor.
 
-• 
+• Un amplificador operacional, posee diversas funciones según el circuito en donde este implementado.
 
-• 
+•	Según la disposición del amplificador, este puede poseer un rango amplificante u otro.
 
-• 
+•	En un circuito sumador, 2 o más señales de entradas son sumadas obteniendo como resultado, una señal resultante del total de las anteriores.
+
+•	En un circuito amplificador no inversor, la señal de entrada se verá amplificada permitiendo su mejor aprovechamiento posteriormente. Al estarse utilizando la entrada no inversora, la señal no vera el desfase de que se suele apreciar en circuitos inversores.
+
  
 7.BIBLIOGRAFÍA
 
