@@ -13,8 +13,6 @@ _Objetivos Específicos_
 • Verificar el principio de funcionamiento de un amplificador operacional.
 
 • Explicar el funcionamiento teórico de un amplificador
-
-• Detallar las formulas de ganancia de señal de un amplificador alimentado.
   
 • Enumerar los usos más frecuentes de los amplificadores operacionales.
  
