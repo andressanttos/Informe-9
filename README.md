@@ -57,6 +57,26 @@ _Diagrama 3:_
 
 _1.- Anote parámetros técnicos importantes de un amplificador operacional que deben ser tomados en cuenta al momento de utilizarlos en un proyecto._
 
+Tensión de alimentación (V+ y V-)
+
+Es la tensión de alimentación máxima permitida que puede aplicarse con seguridad al amplificador. Aunque se designa como estándar 15 V de alimentación, la mayoría de los AO integrados operan sobre un amplio rango de potenciales, algunos van desde valores tan bajos como 1 V, y otros hasta 40 V.
+
+Rango de Temperatura de operación (Tor)
+
+Es el rango de temperatura dentro del cual el dispositivo funcionar con las especificaciones mostradas.
+
+Tensión de entrada diferencial (Vid)
+
+Es la tensión máxima que puede aplicarse con seguridad entre los terminales de entrada diferencial sin flujo excesivo de corriente, estos valores son variables.
+
+Voltaje de entrada en modo común (Vcm)
+
+Es el rango de voltaje que se puede aplicar en ambas entradas respecto a tierra.
+
+Consumo de potencia (Pc)
+
+Es la potencia requerida para operar el AO o la potencia consumida por el AO con propósitos de polarización. Se especifica para 15 Disipación de potencia (PD)Es la potencia que un dispositivo particular es capaz de disipar con seguridad en forma continua mientras opera dentro de un rango de temperatura específico. Esta característica varía de acuerdo al tipo de encapsulado. Por ejemplo, los encapsulados cerámicos permiten una alta disipación de potencia, los metálicos permiten la siguiente más alta disipación, en cambio los de plásticos tienen la más baja. Un valor típico es de 500 mW
+
 _2.- Investigue las características de amplificadores operacionales distintos a los utilizados en esta práctica._
 
 _3.- Investigue otras aplicaciones con circuitos más complejos que utilizan amplificadores operacionales._
