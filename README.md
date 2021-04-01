@@ -79,6 +79,23 @@ Es la potencia requerida para operar el AO o la potencia consumida por el AO con
 
 _2.- Investigue las características de amplificadores operacionales distintos a los utilizados en esta práctica._
 
+Amplificador Operacional No Inversor 
+
+Este circuito es muy parecido al inversor, la diferencia es que la señal se introduce por el terminal no inversor, lo cual va a significar que la señal de salida estará en fase con la señal de entrada y amplificada. El análisis matemático será igual que en el montaje inversor.  la ganancia de éste amplificador no puede ser menor que 1. la corriente de entrada al operacional es cero, por lo tanto, I1 es igual a I2.
+
+Amplificador Operacional Diferencial 
+
+Este dispositivo nos permite obtener la derivada de la señal de entrada. En el caso general la tensión de entrada variará con el tiempo Vi= Vi(t). La principal diferencia que se observa en este circuito es la presencia de un condensador de capacidad constante C. Como se sabe la carga Q que almacena un condensador es proporcional a su capacidad C y a la diferencia de potencial V a la que estén sometidos las armaduras de éste (Q=CV). Es fácil entender que si la tensión varía con el tiempo y la capacidad del condensador es constante, la carga que éste almacena también variará con el tiempo, Q= Q(t).
+
+Amplificador Sumador No inversor
+
+Tiene múltiples entradas en el pin no inversor. Al igual que en un sumador inversor cada entrada tiene su propia impedancia de entrada que esta por el orden de 100 Mega Ohmios o más y solo hay una impedancia de salida que esta por el orden de mili Ohmios o menos.
+
+Amplificador Operacional Seguidor de Voltaje
+
+ Este amplificador hace que la salida siga a la entrada, es decir el voltaje de salida es el mismo voltaje de entrada. Al presentar una alta impedancia de entrada (por el orden de Megas de Ohm o más), se garantiza una baja potencia de entrada, que a su vez garantiza que la señal de entrada no se distorsionara al conectarse al pin no inversor, y además que la señal de entrada quedara en su totalidad en la impedancia de entrada. Al presentar una muy baja impedancia de salida se garantiza que haya una transferencia total de potencia a la RL de salida.
+
+
 _3.- Investigue otras aplicaciones con circuitos más complejos que utilizan amplificadores operacionales._
 
 
